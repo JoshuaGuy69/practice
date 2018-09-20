@@ -1,4 +1,8 @@
 # practice
-Git Beginner 
+Git Beginners
 
-... but seriously. this is for hella new poeple to practice basic af bit commandss
+... but seriously, this is for beginner af git beginners
+
+
+
+
